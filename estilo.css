@@ -5,10 +5,12 @@ font-size: 24px;
 height: 100vh;
 }
 .cabecalho{
-    background-image: url;('./img/fundo.png');
-    backgroud-repeat: no-repeat;
+    background-image: url('./img/fundo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 300px;
 }
 .cabecalho-img{
     width: 20%;
 }
-
