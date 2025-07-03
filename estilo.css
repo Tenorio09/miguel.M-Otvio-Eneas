@@ -1,5 +1,7 @@
 body{
 background-color: azure;
+background: #f2eded;
+background: linear-gradient(90deg,rgba(242, 237, 237, 1) 0%, rgba(213, 245, 241, 1) 28%, rgba(218, 235, 245, 1) 40%, rgba(235, 242, 237, 1) 50%, rgba(242, 246, 247, 1) 61%, rgba(225, 235, 242, 1) 71%);
 color:black;
 font-size: 24px;
 height: 100vh;
